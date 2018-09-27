@@ -1,13 +1,11 @@
 C:\Users\Tyrell\source\repos\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.deps.json
 C:\Users\Tyrell\source\repos\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.runtimeconfig.json
 C:\Users\Tyrell\source\repos\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.runtimeconfig.dev.json
-C:\Users\Tyrell\source\repos\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.Models.dll
-C:\Users\Tyrell\source\repos\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.csproj.CoreCompileInputs.cache
-C:\Users\Tyrell\source\repos\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.AssemblyInfo.cs
 C:\Users\Tyrell\source\repos\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.dll
 C:\Users\Tyrell\source\repos\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.pdb
+C:\Users\Tyrell\source\repos\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.Models.dll
 C:\Users\Tyrell\source\repos\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.Models.pdb
+C:\Users\Tyrell\source\repos\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tyrell\source\repos\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.AssemblyInfo.cs
 C:\Users\Tyrell\source\repos\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.dll
 C:\Users\Tyrell\source\repos\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.pdb
-C:\Users\Tyrell\source\repos\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.csprojAssemblyReference.cache
-C:\Users\Tyrell\source\repos\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.csproj.CopyComplete
